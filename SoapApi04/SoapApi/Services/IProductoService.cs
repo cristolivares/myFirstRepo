@@ -13,4 +13,7 @@ public interface IProductoService
 
     [OperationContract]
     void CrearProducto(Producto producto);
+
+    [OperationContract]
+    void EliminarProductoPorId(int id);
 }

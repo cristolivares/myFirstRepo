@@ -28,6 +28,17 @@ namespace SoapApi.Services
             _context.Productos.Add(producto);
             _context.SaveChanges();
         }
+
+        public void EliminarProductoPorId(int id)
+        {
+            Producto prod = _context.Productos.FirstOrDefault(p => p.Id == id);
+
+            if (prod != null)
+            {
+                _context.Productos.Remove(prod);
+                _context.SaveChanges();
+            }
+        }
     }
 
 }

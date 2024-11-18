@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1FtNNm+Tsqw=",
+  "dgSpecHash": "ZED8PGoPKXY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\criso\\SourceCode\\SoapApi04\\SoapApi\\SoapApi.csproj",
+  "projectFilePath": "C:\\Users\\criso\\Git\\myFirstRepo\\SoapApi04\\SoapApi\\SoapApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\criso\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\criso\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.8\\microsoft.aspnetcore.openapi.8.0.8.nupkg.sha512",

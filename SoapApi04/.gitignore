@@ -1,0 +1,5 @@
+# Ignorar archivos y carpetas generados por .NET
+bin/
+obj/
+*.db
+*.exe

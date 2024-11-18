@@ -36,7 +36,7 @@ app.UseEndpoints(endpoints =>
     endpoints.MapControllers(); // Mapear controladores
 });
 
-app.UseSoapEndpoint<IProductoService>("/ProductoService.asmx", new SoapCore.SoapEncoderOptions());
+app.UseSoapEndpoint<IProductoService>("/ServicioProducto.asmx", new SoapEncoderOptions(), SoapSerializer.DataContractSerializer);
 
 app.UseHttpsRedirection();
 

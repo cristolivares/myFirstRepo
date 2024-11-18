@@ -4577,11 +4577,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\criso\\SourceCode\\SoapApi04\\SoapApi\\SoapApi.csproj",
+      "projectUniqueName": "C:\\Users\\criso\\Git\\myFirstRepo\\SoapApi04\\SoapApi\\SoapApi.csproj",
       "projectName": "SoapApi",
-      "projectPath": "C:\\Users\\criso\\SourceCode\\SoapApi04\\SoapApi\\SoapApi.csproj",
+      "projectPath": "C:\\Users\\criso\\Git\\myFirstRepo\\SoapApi04\\SoapApi\\SoapApi.csproj",
       "packagesPath": "C:\\Users\\criso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\criso\\SourceCode\\SoapApi04\\SoapApi\\obj\\",
+      "outputPath": "C:\\Users\\criso\\Git\\myFirstRepo\\SoapApi04\\SoapApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\criso\\AppData\\Roaming\\NuGet\\NuGet.Config"
