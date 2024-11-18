@@ -1,0 +1,10 @@
+soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ser="http://tempuri.org/">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <ser:ObtenerProductos/>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+
+api soap con entity framework en visual studio code
